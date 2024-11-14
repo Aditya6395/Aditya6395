@@ -1,4 +1,8 @@
-![logo](https://github.com/Aditya6395/Aditya6395/blob/main/Aditya%20Chauhan.png)
+
+<div align="center">
+  <img src="https://github.com/Aditya6395/Aditya6395/blob/main/Aditya_Chauhan.png" alt="logo" width="500">
+</div>
+
 <h1 align="center">Hi there! 👋 I'm Aditya Chauhan</h1>
 <h1 align="center">I am Software Engineer</h1>
 
