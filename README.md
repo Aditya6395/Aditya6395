@@ -108,6 +108,6 @@
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya6395&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6395&theme=radical" alt="GitHub Streak Stats" width="400" />
-</p>
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya6395&theme=radical" alt="GitHub Streak Stats" width="400" />
+  </p>
