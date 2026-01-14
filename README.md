@@ -103,7 +103,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya6395&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs](https://www.shutterstock.com/image-photo/cary-north-carolina-june-20-260nw-2643955845.jpg)/?username=aditya6395&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </p>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya6395&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
